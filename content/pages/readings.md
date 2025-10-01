@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information on the readings of the course.  Includes
   introductory materials and readings on propositional attitudes, modality, conditionals,
   tense, and intensional semantics.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
